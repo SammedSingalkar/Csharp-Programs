@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.Form1.resources
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.Form2.resources
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.Properties.Resources.resources
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\bin\Debug\image_viewer_1.exe.config
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\bin\Debug\image_viewer_1.exe
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\bin\Debug\image_viewer_1.pdb
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.exe
+C:\Users\Asus\source\repos\image_viewer_1\image_viewer_1\obj\Debug\image_viewer_1.pdb

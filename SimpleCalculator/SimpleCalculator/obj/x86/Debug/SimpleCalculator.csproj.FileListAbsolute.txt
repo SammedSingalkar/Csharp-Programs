@@ -1,0 +1,7 @@
+E:\Youtube Channel\Dotnet Mob\Windows Application\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+E:\Youtube Channel\Dotnet Mob\Windows Application\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+E:\Youtube Channel\Dotnet Mob\Windows Application\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+E:\Youtube Channel\Dotnet Mob\Windows Application\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Properties.Resources.resources
+E:\Youtube Channel\Dotnet Mob\Windows Application\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+E:\Youtube Channel\Dotnet Mob\Windows Application\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+E:\Youtube Channel\Dotnet Mob\Windows Application\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
